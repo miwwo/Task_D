@@ -47,6 +47,6 @@ def run_tasks(main_folder):
                 task.close()
                 print('>>> >>> output "', out, '"', '\n', ">>> >>> time %s" % all_time, sep="")
 print(os.getcwd())
-#create()
+create()
 main_folder = 'Ознакомительная папка'
 run_tasks(main_folder)
